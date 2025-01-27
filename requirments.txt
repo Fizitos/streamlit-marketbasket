@@ -1,5 +1,6 @@
-mlxtend==0.23.4
-streamlit
-pandas
-numpy
-matplotlib
+mlxtend==2.4.0
+streamlit==1.41.1
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.0.0
+pip==24.3.1
