@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import mlxtend
 from streamlit_option_menu import option_menu
 from mlxtend.frequent_patterns import apriori
 from mlxtend.frequent_patterns import association_rules
@@ -14,9 +13,24 @@ st.set_page_config(
 st.markdown("""
 <style>
     [data-testid=stSidebar] {
-        background-color: #8D77AB;
+        background-color: #FFC785;
     }
 </style>
+
+<style>[data-testid="stAppViewContainer"] {
+        background-image: url("https://blog.1a23.com/wp-content/uploads/sites/2/2020/02/pattern-5.svg"),
+            linear-gradient(#4d4d4d, transparent),
+            linear-gradient(to top left, #333333, transparent),
+            linear-gradient(to top right, #4d4d4d, transparent);
+        background-size: contain;
+        width: 100%;
+        height: 100vh;
+        position: fixed;
+        background-position: left;
+        background-repeat: repeat-x;
+        background-blend-mode: darken;
+        will-change: transform;
+    }</style>
 """, unsafe_allow_html=True)
 
 with st.sidebar:
