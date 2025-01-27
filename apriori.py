@@ -15,7 +15,35 @@ st.markdown("""
     }
 </style>
 """, unsafe_allow_html=True)
-
+custom_css = """
+<style>
+    .header {
+        color: white;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .stButton>button {
+        color: white;
+        border-radius: 8px;
+        padding: 8px 16px;
+        font-weight: bold;
+    }
+    [data-testid="stAppViewContainer"] {
+        background-image: url("https://blog.1a23.com/wp-content/uploads/sites/2/2020/02/pattern-5.svg"),
+            linear-gradient(#4d4d4d, transparent),
+            linear-gradient(to top left, #333333, transparent),
+            linear-gradient(to top right, #4d4d4d, transparent);
+        background-size: contain;
+        width: 100%;
+        height: 100vh;
+        position: fixed;
+        background-position: left;
+        background-repeat: repeat-x;
+        background-blend-mode: darken;
+        will-change: transform;
+    }
+</style>
+"""
 with st.sidebar:
     "## WEB APP by"
     "## "
