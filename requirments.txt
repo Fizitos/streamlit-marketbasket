@@ -3,4 +3,4 @@ pandas
 numpy
 matplotlib
 seaborn
-mlxtend 0.23.1
+mlxtend==0.23.1
