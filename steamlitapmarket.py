@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
+import mlxtend
 from mlxtend.frequent_patterns import association_rules,apriori
 
 st.set_page_config(
