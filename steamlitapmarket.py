@@ -1,8 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-from mlxtend.frequent_patterns import apriori
-from mlxtend.frequent_patterns import association_rules
+from mlxtend.frequent_patterns import apriori,association_rules
 
 st.set_page_config(
     page_title="MarketBasket Apriori",
