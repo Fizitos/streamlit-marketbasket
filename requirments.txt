@@ -3,4 +3,4 @@ pandas
 numpy
 matplotlib
 seaborn
-mlxtend
+mlxtend 0.23.1
