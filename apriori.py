@@ -1,7 +1,9 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-from mlxtend.frequent_patterns import association_rules, apriori
+import mlxtend
+from mlxtend.frequent_patterns import apriori
+from mlxtend.frequent_patterns import association_rules
 
 #load dataset 
 df = pd.read_csv("bread_basket.csv")
