@@ -17,7 +17,7 @@ st.markdown("""
 </style>
 
 <style>[data-testid="stAppViewContainer"] {
-        background-image: url("https://media.istockphoto.com/id/119912757/id/vektor/buah-dan-sayuran-pola-mulus.jpg?s=1024x1024&w=is&k=20&c=UlH9dSI7q9ZB37gJ4WcS5scnFws6I1L0Wkxl-lI6NDo="),
+        background-image: url("https://media.istockphoto.com/id/1469009106/id/vektor/pola-sayuran-mulus-latar-belakang-makanan-bio-sehat-vegetarian-produk-ramah-lingkungan.jpg?s=1024x1024&w=is&k=20&c=_VFkoDF9hjOGPS9yveXpDE90Y-6GhFItqyPouKPpftY="),
             linear-gradient(#4d4d4d, transparent),
             linear-gradient(to top left, #333333, transparent),
             linear-gradient(to top right, #4d4d4d, transparent);
