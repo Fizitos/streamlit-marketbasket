@@ -12,7 +12,7 @@ st.set_page_config(
 st.markdown("""
 <style>
     [data-testid=stSidebar] {
-        background-color: #86A788;
+        background-color: #D0DDD0;
     }
 </style>
 
