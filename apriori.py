@@ -17,7 +17,7 @@ st.markdown("""
 </style>
 
 <style>[data-testid="stAppViewContainer"] {
-        background-image: url("https://media.istockphoto.com/id/1211434362/id/vektor/mulus-mengulangi-garis-retro-latar-belakang-abstrak.jpg?s=1024x1024&w=is&k=20&c=Zg9ALmdXii4a9H5U6BJ8eu4fg1iDP9Agu-Wl292Oavk="),
+        background-image: url("https://media.istockphoto.com/id/169945157/id/foto/milkyway-terlihat-dari-southern-skies.jpg?s=1024x1024&w=is&k=20&c=W6gcEr8PpYeyVsCB9OzXBSRu8gtf-CqkNdkRGj_L6w0="),
             linear-gradient(#4d4d4d, transparent),
             linear-gradient(to top left, #333333, transparent),
             linear-gradient(to top right, #4d4d4d, transparent);
