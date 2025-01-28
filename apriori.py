@@ -26,7 +26,7 @@ st.markdown("""
 
 with st.sidebar:
     "## WEB APP by"
-    "## --"
+    "## TI3A"
 """"""
 
 st.title("Market Basket Analysis Menggunakan Algoritma Apriori")
