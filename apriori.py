@@ -17,7 +17,7 @@ st.markdown("""
 </style>
 
 <style>[data-testid="stAppViewContainer"] {
-        background-image: url("https://media.istockphoto.com/id/1316242814/id/vektor/tanaman-ranting-dan-daun-pada-warna-hijau-gelap-pola-mulus-vektor-wallpaper-desain-kertas.jpg?s=1024x1024&w=is&k=20&c=6sWhODby5-qVciae0dExIe_EpE4ruwPgXPojGFZY7xk="),
+        background-image: url("https://plus.unsplash.com/premium_vector-1736908116123-1ab63654ee99"),
             linear-gradient(#4d4d4d, transparent),
             linear-gradient(to top left, #333333, transparent),
             linear-gradient(to top right, #4d4d4d, transparent);
