@@ -17,7 +17,7 @@ st.markdown("""
 </style>
 
 <style>[data-testid="stAppViewContainer"] {
-        background-image: url("https://4kwallpapers.com/images/walls/thumbs_v/20824.png"),
+        background-image: url("https://4kwallpapers.com/images/walls/thumbs_2t/20372.jpgpng"),
             linear-gradient(#4d4d4d, transparent),
             linear-gradient(to top left, #333333, transparent),
             linear-gradient(to top right, #4d4d4d, transparent);
