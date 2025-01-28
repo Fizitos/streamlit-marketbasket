@@ -17,7 +17,7 @@ st.markdown("""
 </style>
 
 <style>[data-testid="stAppViewContainer"] {
-        background-image: url("https://media.istockphoto.com/id/1689131959/id/vektor/bentuk-abstrak-pastel-dan-latar-belakang-persegi.jpg?s=612x612&w=0&k=20&c=9_WwKbA7sNpT6wytSrC9f-qgW2ij84Trl2r7bSYGdRQ="),
+        background-image: url("https://images.pexels.com/photos/1671478/pexels-photo-1671478.jpeg?auto=compress&cs=tinysrgb&w=600"),
             linear-gradient(#4d4d4d, transparent),
             linear-gradient(to top left, #333333, transparent),
             linear-gradient(to top right, #4d4d4d, transparent);
