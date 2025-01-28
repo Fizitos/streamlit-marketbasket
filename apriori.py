@@ -17,7 +17,7 @@ st.markdown("""
 </style>
 
 <style>[data-testid="stAppViewContainer"] {
-        background-image: url("https://media.istockphoto.com/id/466379601/id/vektor/desain-latar-belakang-derek-jepang-berwarna-merah-emas-dan-putih.jpg?s=1024x1024&w=is&k=20&c=4z4IeVlR8mBP7T9ItMwTzdKIgXqR4X-JmTyLKJDXagA="),
+        background-image: url("https://media.istockphoto.com/id/2168260512/id/vektor/crane-birds.jpg?s=1024x1024&w=is&k=20&c=Zuo3Dw4wsNEvZ0bMlpUkv7N4bq9JQXczxSSYZRJReAA="),
             linear-gradient(#4d4d4d, transparent),
             linear-gradient(to top left, #333333, transparent),
             linear-gradient(to top right, #4d4d4d, transparent);
