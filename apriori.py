@@ -17,7 +17,7 @@ st.markdown("""
 </style>
 
 <style>[data-testid="stAppViewContainer"] {
-        background-image: url("https://plus.unsplash.com/premium_vector-1736908116123-1ab63654ee99"),
+        background-image: url("https://media.istockphoto.com/id/1387411288/id/vektor/pola-bunga-mulus-tekstur-mekar-kreatif-latar-belakang-bunga-liar-bagus-untuk-kain-tekstil.jpg?s=1024x1024&w=is&k=20&c=mnye992arNAcqwdmsJ04y73qajEiGalxsxTtyO3UT8U="),
             linear-gradient(#4d4d4d, transparent),
             linear-gradient(to top left, #333333, transparent),
             linear-gradient(to top right, #4d4d4d, transparent);
