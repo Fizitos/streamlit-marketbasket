@@ -17,7 +17,7 @@ st.markdown("""
 </style>
 
 <style>[data-testid="stAppViewContainer"] {
-        background-image: url("https://unsplash.com/photos/blue-and-yellow-abstract-painting--1W4pTCzBSY"),
+        background-image: url("https://images.unsplash.com/photo-1629196201315-64d42a2fe4d5?q=80&w=1418&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"),
             linear-gradient(#4d4d4d, transparent),
             linear-gradient(to top left, #333333, transparent),
             linear-gradient(to top right, #4d4d4d, transparent);
